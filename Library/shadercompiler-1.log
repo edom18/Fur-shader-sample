@@ -5206,3 +5206,1676 @@ Cmd: compileSnippet
   api=0 type=0 insize=529 outsize=2147 kw= ok=1
 Cmd: compileSnippet
   api=0 type=1 insize=529 outsize=319 kw= ok=1
+Cmd: preprocess
+  error: 1 plat 12 at (19): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  insize=23050 outsize=9821 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=526 outsize=380 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=526 outsize=298 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=526 outsize=2152 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=526 outsize=318 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=526 outsize=2151 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=526 outsize=316 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=527 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=527 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=527 outsize=2151 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=527 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=527 outsize=2151 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=527 outsize=318 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2137 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=303 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2150 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2150 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2150 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2150 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2150 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2143 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=312 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2149 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2149 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=313 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2149 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2148 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2143 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2148 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2148 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2148 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=313 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2148 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2148 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2142 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2148 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2147 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2144 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2147 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2137 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=312 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2147 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2147 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2143 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=307 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2147 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2147 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2147 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=312 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2147 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2147 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2147 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2147 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2147 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2147 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2147 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2147 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2145 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=313 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2147 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2147 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2141 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2147 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2147 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2147 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=313 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2147 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2147 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2142 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2147 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2147 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2147 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2147 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2147 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=319 kw= ok=1
+Cmd: preprocess
+  error: 1 plat 12 at (19): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  insize=23050 outsize=9821 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=526 outsize=368 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=526 outsize=298 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=526 outsize=2139 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=526 outsize=318 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=526 outsize=2138 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=526 outsize=316 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=527 outsize=2133 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=527 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=527 outsize=2138 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=527 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=527 outsize=2138 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=527 outsize=318 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2124 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=303 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2137 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2137 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2137 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2137 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2137 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2130 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=312 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2136 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2136 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2133 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=313 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2136 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2135 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2130 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2135 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2135 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2135 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=313 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2135 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2135 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2129 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2135 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2134 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2131 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2134 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2133 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2124 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=312 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2134 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2134 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2130 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=307 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2134 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2134 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2134 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=312 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2134 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2134 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2134 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2134 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2134 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2134 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2134 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2134 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2132 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=313 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2134 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2134 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2128 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2134 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2134 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2134 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=313 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2134 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2134 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2129 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2134 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2134 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2134 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2134 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2134 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=319 kw= ok=1
+Cmd: preprocess
+  error: 1 plat 12 at (19): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  insize=23050 outsize=9821 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=526 outsize=379 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=526 outsize=298 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=526 outsize=2151 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=526 outsize=318 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=526 outsize=2150 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=526 outsize=316 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=527 outsize=2145 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=527 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=527 outsize=2150 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=527 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=527 outsize=2150 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=527 outsize=318 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2136 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=303 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2149 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2149 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2149 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2149 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2149 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2142 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=312 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2148 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2148 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2145 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=313 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2148 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2147 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2142 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2147 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2147 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2147 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=313 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2147 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2147 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2141 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2147 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2143 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2145 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2136 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=312 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2142 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=307 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=312 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2144 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=313 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2140 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=313 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2141 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=319 kw= ok=1
+Cmd: preprocess
+  error: 1 plat 12 at (19): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  insize=23050 outsize=9821 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=526 outsize=379 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=526 outsize=298 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=526 outsize=2151 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=526 outsize=318 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=526 outsize=2150 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=526 outsize=316 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=527 outsize=2145 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=527 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=527 outsize=2150 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=527 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=527 outsize=2150 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=527 outsize=318 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2136 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=303 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2149 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2149 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2149 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2149 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2149 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2142 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=312 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2148 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2148 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2145 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=313 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2148 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2147 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2142 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2147 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2147 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2147 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=313 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2147 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2147 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2141 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2147 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2143 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2145 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2136 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=312 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2142 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=307 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=312 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=528 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=528 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2144 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=313 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2140 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=313 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2141 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=319 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=317 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=529 outsize=2146 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=529 outsize=319 kw= ok=1
+Cmd: preprocess
+  error: 1 plat 12 at (19): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  insize=23050 outsize=9821 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=526 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=526 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=526 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=526 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=526 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=526 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=526 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=526 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=526 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=526 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=526 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=526 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=527 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=527 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  api=1 type=1 insize=527 outsize=289 kw= ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=527 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=527 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=527 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=527 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=527 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=527 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=527 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=527 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=528 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=529 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at FurHelper.cginc(30): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=529 outsize=0 kw= ok=0

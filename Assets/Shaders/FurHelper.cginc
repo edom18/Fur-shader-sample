@@ -45,7 +45,7 @@ vert2frag vert(vertInput v) {
 	float4 wpos = float4(v.vertex.xyz + n.xyz, 1.0);
 	o.position = mul(UNITY_MATRIX_MVP, wpos);
 	o.uv  = v.texcoord;
-	o.uv2 = v.texcoord2 * 20.0;
+	o.uv2 = v.texcoord2 * 10.0;
 
 	return o;
 }
