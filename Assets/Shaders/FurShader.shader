@@ -17,7 +17,9 @@
 				Blend Off
 			
 				CGPROGRAM
-				
+				#pragma vertex vert
+				#pragma fragment frag
+				#define FUR_OFFSET 0.000000
 				#include "FurHelper.cginc"
 				
 				ENDCG

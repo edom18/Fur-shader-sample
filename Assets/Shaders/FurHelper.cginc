@@ -1,9 +1,10 @@
 ﻿#ifndef EDO_FUR_SHADER_HELPER
 #define EDO_FUR_SHADER_HELPER
+#define EDO_FUR_SHADER_HELPER
 
 // 頂点シェーダへの入力構造体
 struct vertInput {
-	float4 vertex    : SV_POSITION;
+	float4 vertex    : POSITION;
 	float4 normal    : NORMAL;
 	float2 texcoord  : TEXCOORD0;
 	float2 texcoord2 : TEXCOORD1;
@@ -27,7 +28,7 @@ vert2frag vert(vertInput v) {
 	
 	vert2frag o;
 	
-	float3 forceDirection = float3(0.0);
+	float3 forceDirection = float3(0.0,0.0,0.0);
 	float4 position = v.vertex;
 	
 	// Wind
