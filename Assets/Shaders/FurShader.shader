@@ -3,6 +3,7 @@
 		_MainTex ("Base (RGB)", 2D) = "white" {}
 		_SubTex  ("Base (RGB)", 2D) = "white" {}
 		_Gravity ("Gravity", Vector) = (0.0, -0.75, 0.0, 0.0)
+		[PowerSlider(1.0)] _Roughness ("Roughness", Range (0.0, 100.0)) = 10.0
 	}
 	
 	Category {
