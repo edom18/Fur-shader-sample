@@ -3,6 +3,7 @@
 		_MainTex ("Base (RGB)", 2D) = "white" {}
 		_SubTex  ("Base (RGB)", 2D) = "white" {}
 		_Gravity ("Gravity", Vector) = (0.0, -0.75, 0.0, 0.0)
+		[PowerSlider(1.0)] _Roughness ("Roughness", Range (0.0, 100.0)) = 10.0
 	}
 	
 	Category {
@@ -17,7 +18,9 @@
 				Blend Off
 			
 				CGPROGRAM
-				
+				#pragma vertex vert
+				#pragma fragment frag
+				#define FUR_OFFSET 0.000000
 				#include "FurHelper.cginc"
 				
 				ENDCG

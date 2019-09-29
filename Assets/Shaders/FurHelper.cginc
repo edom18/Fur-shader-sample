@@ -1,9 +1,12 @@
-﻿#ifndef EDO_FUR_SHADER_HELPER
+﻿// Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
+
+#ifndef EDO_FUR_SHADER_HELPER
+#define EDO_FUR_SHADER_HELPER
 #define EDO_FUR_SHADER_HELPER
 
 // 頂点シェーダへの入力構造体
 struct vertInput {
-	float4 vertex    : SV_POSITION;
+	float4 vertex    : POSITION;
 	float4 normal    : NORMAL;
 	float2 texcoord  : TEXCOORD0;
 	float2 texcoord2 : TEXCOORD1;
@@ -20,6 +23,7 @@ struct vert2frag {
 uniform sampler2D _MainTex;
 uniform sampler2D _SubTex;
 uniform float4 _Gravity;
+uniform float _Roughness;
 
 vert2frag vert(vertInput v) {
 
@@ -27,7 +31,7 @@ vert2frag vert(vertInput v) {
 	
 	vert2frag o;
 	
-	float3 forceDirection = float3(0.0);
+	float3 forceDirection = float3(0.0,0.0,0.0);
 	float4 position = v.vertex;
 	
 	// Wind
@@ -43,9 +47,9 @@ vert2frag vert(vertInput v) {
 	
 	float4 n = normalize(aNormal) * FUR_OFFSET * spacing;
 	float4 wpos = float4(v.vertex.xyz + n.xyz, 1.0);
-	o.position = mul(UNITY_MATRIX_MVP, wpos);
+	o.position = UnityObjectToClipPos(wpos);
 	o.uv  = v.texcoord;
-	o.uv2 = v.texcoord2 * 10.0;
+	o.uv2 = v.texcoord2 * _Roughness;
 
 	return o;
 }
